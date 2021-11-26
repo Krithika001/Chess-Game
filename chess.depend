@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1585457875 source:d:\c++ pro\chess\main.cpp
+
+1588222811 d:\c++ pro\chess\chess.h
+	"Board.h"
+
+1588159444 source:d:\c++ pro\chess\chesspiece.cpp
+	"ChessPiece.h"
+	<iostream>
+
+1588147502 d:\c++ pro\chess\chesspiece.h
+
+1588147933 source:d:\c++ pro\chess\pawn.cpp
+	"Pawn.h"
+	<iostream>
+
+1588217444 d:\c++ pro\chess\pawn.h
+	"ChessPiece.h"
+
+1588159723 source:d:\c++ pro\chess\knight.cpp
+	"Knight.h"
+
+1588217444 d:\c++ pro\chess\knight.h
+	"ChessPiece.h"
+
+1588160335 source:d:\c++ pro\chess\bishop.cpp
+	"Bishop.h"
+
+1588217444 d:\c++ pro\chess\bishop.h
+	"ChessPiece.h"
+
+1588211996 source:d:\c++ pro\chess\rook.cpp
+	"Rook.h"
+
+1588217444 d:\c++ pro\chess\rook.h
+	"ChessPiece.h"
+
+1588212010 source:d:\c++ pro\chess\queen.cpp
+	"Queen.h"
+
+1588217444 d:\c++ pro\chess\queen.h
+	"ChessPiece.h"
+
+1588212461 source:d:\c++ pro\chess\king.cpp
+	"King.h"
+
+1588217444 d:\c++ pro\chess\king.h
+	"ChessPiece.h"
+
+1588217113 source:d:\c++ pro\chess\board.cpp
+	"Board.h"
+	<iostream>
+
+1588222811 d:\c++ pro\chess\board.h
+	"Pawn.h"
+	"Knight.h"
+	"Bishop.h"
+	"Rook.h"
+	"Queen.h"
+	"King.h"
+
+1588222811 source:d:\c++ pro\chess\chess.cpp
+	"Chess.h"
+	<iostream>
+
